@@ -1,0 +1,40 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: black;
+   
+}
+
+
+.bgcl
+{
+    margin-top:  0;
+    background-image: url(output-onlinepngtools\ \(3\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    white-space: nowrap;
+}
+
+
+.bot
+{
+    display: flex;
+    justify-content: center;
+    padding:1cm;
+    background-color: rgba(60, 179, 114, 0.153)
+}
+
+
+
+.botinfo
+{
+    padding:2cm;
+    line-height: 1cm;
+    padding-top: 0%;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
